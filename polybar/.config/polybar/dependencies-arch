@@ -1,0 +1,8 @@
+polybar
+nerd-fonts-iosevka
+ttf-roboto
+ttf-ubuntu-font-family
+
+# for spotify module
+playerctl
+python-gobject
